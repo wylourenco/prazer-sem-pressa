@@ -1,0 +1,11 @@
+PRAZER SEM PRESSA — PÁGINA VSL E MOCKUPS
+
+A página usa um único ficheiro index.html com HTML, CSS e JavaScript incorporados. Para abrir localmente, extrai a pasta inteira do ZIP e abre index.html; mantém junto todos os ativos de imagem incluídos.
+
+O player do YouTube é preparado em segundo plano antes do clique, com uma capa e um botão de marca por cima. O player inicia sem os controlos normais; a página mostra uma linha de progresso própria e não clicável, bloqueia o teclado no leitor e corrige saltos para a frente. A capa volta a cobrir o vídeo no fim para esconder o ecrã final de recomendações. O carregamento ainda depende da ligação do visitante e o YouTube pode impor a sua marca visual, que não é possível remover totalmente num iframe.
+
+O botão de compra surge quando falta um minuto ou quando o vídeo termina. Os botões têm uma pulsação de destaque e abrem o checkout fornecido: https://pay.kursinha.com/c/6ad88b3cc1bf903701b1e182. Preço apresentado: 7.500 Kz.
+
+A galeria apresenta três mockups com fundo transparente. As versões PNG de alta resolução estão incluídas como ficheiros independentes; as versões WebP mais leves são usadas no site.
+
+Conteúdo educativo para adultos; não garante orgasmo nem substitui aconselhamento clínico.
